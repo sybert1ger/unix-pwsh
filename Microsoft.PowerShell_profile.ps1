@@ -2,7 +2,7 @@ $githubUser = "Sybert1ger" # Change this here if you forked the repository.
 $name= "Rick" # Change this to your name.
 $githubRepo = "unix-pwsh" # Change this here if you forked the repository and changed the name.
 $githubBaseURL= "https://raw.githubusercontent.com/$githubUser/$githubRepo/main"
-$OhMyPoshConfigFileName = "montys-aliens.omp.json" # Filename of the OhMyPosh config file
+$OhMyPoshConfigFileName = "montys.omp.json" # Filename of the OhMyPosh config file
 $OhMyPoshConfig = "https://raw.githubusercontent.com/$githubUser/$githubRepo/main/$OhMyPoshConfigFileName" # URL of the OhMyPosh config file, make sure to use the last part of the raw lik, (stands for the filename) in the variable on the line below
 
 # -----------------------------------------------------------------------------
