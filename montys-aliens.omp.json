@@ -9,11 +9,11 @@
           "foreground": "#ffffff",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": " {{ .UserName }}@{{ .Icon }} {{ .HostName }} ",
+          "template": " {{{ .Icon }} {{ .HostName }} ",
           "type": "os"
         },
         {
-          "background": "#DA627D",
+          "background": "#C678DD",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "options": {
@@ -27,8 +27,8 @@
           "type": "path"
         },
         {
-          "background": "#FCA17D",
-          "foreground": "#ffffff",
+          "background": "#95ffa4",
+          "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
           "options": {
             "branch_icon": " <#ffffff>\ue0a0 </>",
